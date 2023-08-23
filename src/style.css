@@ -1,1 +1,21 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+* {
+  min-height: 10px;
+}
+body {
+  background-color: rgb(119, 0, 223);
+}
+#father {
+  background-color: white;
+  border-radius: 1rem;
+}
+#btn {
+  background: rgb(11, 48, 235);
+  color: white;
+  border-radius: 18px;
+  border: none;
+  padding: 10px;
+}
+#showing {
+  width: 300px;
+  font-size: 4rem;
+}
